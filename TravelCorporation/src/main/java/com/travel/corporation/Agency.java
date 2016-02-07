@@ -12,8 +12,8 @@ public class Agency {
     public Agency(Staff st) {
         this.staff = st;
 
-        System.out.println("Hello world");
-
+        System.out.println("Hello worlds of fun.");
+		System.out.println("Goodbye world");
     }
 
 
